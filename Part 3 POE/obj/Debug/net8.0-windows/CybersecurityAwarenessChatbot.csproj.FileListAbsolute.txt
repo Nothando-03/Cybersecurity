@@ -1,0 +1,17 @@
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\bin\Debug\net8.0-windows\CybersecurityAwarenessChatbot.exe
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\bin\Debug\net8.0-windows\CybersecurityAwarenessChatbot.deps.json
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\bin\Debug\net8.0-windows\CybersecurityAwarenessChatbot.runtimeconfig.json
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\bin\Debug\net8.0-windows\CybersecurityAwarenessChatbot.dll
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\bin\Debug\net8.0-windows\CybersecurityAwarenessChatbot.pdb
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.AssemblyInfoInputs.cache
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.AssemblyInfo.cs
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.csproj.CoreCompileInputs.cache
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.dll
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\refint\CybersecurityAwarenessChatbot.dll
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.pdb
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.genruntimeconfig.cache
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\ref\CybersecurityAwarenessChatbot.dll
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.csproj.AssemblyReference.cache
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.ChatbotForm.resources
+C:\Users\mziny\Documents\Codex\2026-06-27\f\outputs\WinFormsGui\obj\Debug\net8.0-windows\CybersecurityAwarenessChatbot.csproj.GenerateResource.cache
